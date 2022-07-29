@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    size: 200px;
+    text-align: left;
+    background-color: rgb(255, 145, 0)55);
+}
+
+.gallery{
+    background-color: aqua;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #c9f76f;
+    padding: 10px;
+}
+
+footer img {
+    width: 60px;
+}
+header h2 {
+    color: rgb(223, 209, 236);
+    text-align: center;
+}
+
+
+
+html{
+    background-color: brown;
+}
+
+ul{
+    background-color: rgb(61, 79, 139);
+}
+h2{
+    text-align: left;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+header img{
+    background-color: cornflowerblue;
+}
+main{
+    background-color: darkorchid;
+}
